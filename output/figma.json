@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "Introduction",
+    "importance": 1,
+    "sentiment": "positive",
+    "tone": "excited",
+    "slide": {
+      "title": "Welcome to Figma Tutorial",
+      "bullets": [
+        "Essential tips and tricks for Figma",
+        "Suitable for both newbies and seasoned designers"
+      ]
+    },
+    "paragraph": "Hey there, Figma fans! Welcome back to our channel. Today, we've got an exciting tutorial lined up for you, where we'll be exploring some essential tips and tricks in Figma, perfect for both newbies and seasoned designers alike. So, let's dive right in!"
+  },
+  {
+    "topic": "Navigation",
+    "importance": 0.8,
+    "sentiment": "neutral",
+    "tone": "informative",
+    "slide": {
+      "title": "Navigation Basics",
+      "bullets": [
+        "Pan around canvas with Spacebar + click and drag",
+        "Zoom in/out with Ctrl/Command + mouse wheel"
+      ]
+    },
+    "paragraph": "First up, let's talk about the basics of navigation. To pan around your canvas, simply press and hold the Spacebar, then click and drag your mouse. If you need to zoom in or out, hold down the Ctrl or Command key and scroll with your mouse wheel. Easy-peasy, right?"
+  },
+  {
+    "topic": "Components",
+    "importance": 0.9,
+    "sentiment": "positive",
+    "tone": "informative",
+    "slide": {
+      "title": "Creating Components",
+      "bullets": [
+        "Reusable design elements",
+        "Easily modify and update across projects"
+      ]
+    },
+    "paragraph": "Now, let's move on to something a bit more advanced – creating components. Components are reusable design elements that you can easily modify and update across your projects. To create a component, select the object you want to turn into a component, then click the \"Create Component\" button in the toolbar. Boom—your component is ready for action!"
+  },
+  {
+    "topic": "Constraints",
+    "importance": 0.7,
+    "sentiment": "neutral",
+    "tone": "informative",
+    "slide": {
+      "title": "Using Constraints",
+      "bullets": [
+        "Maintain positioning and proportions of objects within a frame",
+        "Set constraints under the \"Constraints\" section in Properties panel"
+      ]
+    },
+    "paragraph": "Let's talk about Constraints. Constraints are super useful when you want to maintain the positioning and proportions of objects within a frame as the frame is resized. Simply select an object, head over to the Properties panel, and set the desired constraints under the \"Constraints\" section. You can choose from options like \"Left & Right,\" \"Top & Bottom,\" or even \"Scale.\""
+  },
+  {
+    "topic": "Time-saving Tricks",
+    "importance": 0.8,
+    "sentiment": "positive",
+    "tone": "informative",
+    "slide": {
+      "title": "Time-saving Tricks",
+      "bullets": [
+        "Select hidden layers with Ctrl/Command + click and hold",
+        "Contextual menu shows all layers present at that point"
+      ]
+    },
+    "paragraph": "Alright, time to explore some super cool time-saving tricks. If you're working with a bunch of layers and need to select one that's hidden beneath others, hold down the Ctrl or Command key, then click and hold your mouse on the desired spot. A contextual menu will pop up, showing you all the layers present at that point—just select the one you need!"
+  }
+]

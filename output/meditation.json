@@ -1,0 +1,50 @@
+[
+  {
+    "topic": "Health Benefits of Meditation",
+    "importance": 1,
+    "sentiment": "positive",
+    "tone": "informative",
+    "slide": {
+      "title": "Health Benefits of Meditation",
+      "bullets": [
+        "Physical symptoms of stress reduced (blood pressure, heart rate)",
+        "Psychological symptoms of stress reduced (anxiety, nervousness)",
+        "Even one minute of breath work can help reduce stress",
+        "Meditation classes offered through community health program",
+        "Meditation is easy and has no negative side effects"
+      ]
+    },
+    "paragraph": "There are lots of health benefits that we're seeing from meditation. The first ones are usually the physical symptoms that we have when we're under stress. Our blood pressures go down. Our heart rates go down. Probably what's more important are the psychological things that we tend to feel when we're under lots of stress. \nSo when we get anxious, we get nervous, meditation can help those actually reduce and almost get rid of them so that we're not so worried about all the things that we're concerned about. "
+  },
+  {
+    "topic": "Different Forms of Meditation",
+    "importance": 0.8,
+    "sentiment": "neutral",
+    "tone": "informative",
+    "slide": {
+      "title": "Different Forms of Meditation",
+      "bullets": [
+        "Meditation doesn't have to involve sitting cross-legged",
+        "Meditation is just getting quiet",
+        "Prayer is a form of meditation",
+        "Many avenues available to learn how to meditate"
+      ]
+    },
+    "paragraph": "Even if you do one minute of breath work, if you do four deep breaths, all of the sudden you feel very relaxed. And so anyone can do that anywhere. You can do that sitting in your car if you're caught in traffic on I-95, even if the kids are running around and it's very noisy and all of a sudden you just take a couple deep breaths. You start to feel very relaxed. And that's probably one of the best methods that I've got for helping people get rid of the stress. "
+  },
+  {
+    "topic": "Encouragement to Try Meditation",
+    "importance": 0.9,
+    "sentiment": "positive",
+    "tone": "encouraging",
+    "slide": {
+      "title": "Encouragement to Try Meditation",
+      "bullets": [
+        "Meditation is an easy thing for almost everyone to do",
+        "No negative side effects from meditation",
+        "Encourages everyone to try meditation"
+      ]
+    },
+    "paragraph": "But we also have classes as part of our community health program that we offer that we teach meditation. And there are lots of forms. We don't have to sit cross-legged. We don't have to do what sometimes people think is a very odd or very unusual way. Meditation is just getting quiet. Even prayer is meditation. And so it's a very easy thing for us to do. I think we've got so many avenues that we can learn how to do meditation. And it doesn't hurt. There's no side effects from meditation. There's no negative side effects. It's just an easy thing for almost everyone to do. So I just encourage everyone to try it."
+  }
+]

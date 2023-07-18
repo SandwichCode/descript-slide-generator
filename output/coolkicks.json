@@ -1,0 +1,32 @@
+[
+  {
+    "topic": "Introduction",
+    "importance": 1,
+    "sentiment": "positive",
+    "tone": "serious",
+    "slide": {
+      "title": "CoolKicks: Ethical Business Practices",
+      "bullets": [
+        "Ethical conduct vital for success",
+        "Foundation for achievements",
+        "Positive impact on reputation and customer loyalty"
+      ]
+    },
+    "paragraph": "**Title:** CoolKicks: Exemplifying Ethical Business Practices in the Sneaker Industry"
+  },
+  {
+    "topic": "Transparency and Trust",
+    "importance": 0.8,
+    "sentiment": "neutral",
+    "tone": "informative",
+    "slide": {
+      "title": "Transparency and Customer Trust",
+      "bullets": [
+        "Showroom setting with Michelle and Ryan",
+        "Ryan concerned about counterfeit sneakers",
+        "Michelle assures authenticity and guarantees"
+      ]
+    },
+    "paragraph": "[INTRO]"
+  }
+]
